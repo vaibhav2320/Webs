@@ -1,1 +1,2 @@
-TinDog Starting Files
+Hobby project
+
